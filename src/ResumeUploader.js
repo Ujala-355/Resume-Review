@@ -81,6 +81,7 @@ const ResumeUploader = () => {
                                         </span>
                                     </div>
 
+
                                     {resume && (
                                         <div className="mt-3 alert alert-success d-flex align-items-center">
                                             <i className="bi bi-file-check fs-4 me-2"></i>
